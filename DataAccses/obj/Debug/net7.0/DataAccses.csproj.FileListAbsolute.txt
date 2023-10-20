@@ -1,0 +1,12 @@
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\bin\Debug\net7.0\DataAccses.deps.json
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\bin\Debug\net7.0\DataAccses.dll
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\bin\Debug\net7.0\DataAccses.pdb
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.AssemblyInfoInputs.cache
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.AssemblyInfo.cs
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.csproj.CoreCompileInputs.cache
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.dll
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\refint\DataAccses.dll
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\DataAccses.pdb
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\obj\Debug\net7.0\ref\DataAccses.dll
+C:\Users\AHRM\source\repos\ProdouctManagement\DataAccses\bin\Debug\net7.0\DemoDBEmployees.CSV
